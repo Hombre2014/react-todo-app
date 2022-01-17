@@ -8,36 +8,27 @@
 
 ## Description
 
-This is the first project of the Math Magicians application. You will set up the environment and tools needed to develop a React application. In the following projects, you will develop the actual application.
+Follow the react to-do app tutorial and build the project in the estimated time.
 
 ## Requirements:
 
-### Phase 1, setup project
-- [x] The easiest way to create a React application is using Create React App (CRA) and following the instructions in this [guide](https://create-react-app.dev/docs/getting-started/).
-- [x] The application should run in the browser without errors.
-
-### Phase 2, components
-- [x] Delete all the boilerplate from CRA (text, images, styles).
-- [x] Create a directory called `components`.
-- [x] Inside components, create a new `Calculator.js` file.
-- [x] In `Calculator.js`, create a React component that matches the design from the screenshot above.
-- [x] Don't add any extra design.
-- [x] Develop just the UI of the calculator; the math logic to make it work will be added in the next project.
-- [x] Use class based components.
-- [x] Once the Calculator is ready, import it and use it in your main component (App.js).
-- [x] Test it in the browser; it should render without problems.
-
-### Phase 3, events
-- [x] Copy the files [`calculate.js`](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/code-samples/calculate.js) and [`operate.js`](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/code-samples/operate.js) into a `logic/` directory in your project.
-- [x] Analyze the files `calculate.js` and `operate.js`, be sure you understand what they do.
-- [x] Import the files in your Calculator component.
-- [x] Implement the event handlers you need to use the math logic from `calculate.js` and `operate.js` in your React component.
-- [x] Practice what you have learned until now: use `state` and `props`, pass props to child components, use lifecycle methods, lift state up.
-- [x] Test your app in the browser. It should be able to perform math operations.
-
-### Phase 4, refactor with hooks
-- [x] Refactor the Calculator component (`components/Calculator.js`) from a class based component to a functional component with hooks.
-- [x] After the refactor is done, test the app in the browser. It should keep the same functionality.
+- [ ] You will follow the tutorial: React Tutorial From Scratch: A Step-by-Step Guide (2021), where you will develop a To do app!
+- [ ] This tutorial, divided into several parts, is very comprehensive, and covers all main concepts about React, from the very basics to some intermediate topics. Feel free to skip the parts you think you don't need, since you already learned about these topics. This tutorial is not a substitute, just a reinforcement of what you have learned.
+- [ ] Complete as much as possible in the estimated time.
+- [ ] The tutorial is organized in the following sections:
+  - [ ] Part 1 - React tutorial: The beginner's guide to learning React in 2020.
+  - [ ] Part 2 - Working with React form and handling event.
+  - [ ] Part 3 – How to implement CSS in Reactjs app.
+  - [ ] Part 4 – How to edit to dos items.
+  - [ ] Part 5 – Persisting React state in local storage (Optional).
+  - [ ] Part 6 – Getting started with React lifecycle methods.
+  - [ ] Part 7 – Getting started with React hooks.
+  - [ ] Part 8 – How to use SVG icons in React (Optional).
+  - [ ] Part 9 – Routing with React Router.
+  - [ ] Part 10 – How to add hamburger menu in React (Optiona).
+  - [ ] Part 11 – Deploying React app to GitHub Pages (Optional).
+- [ ] Create a new repository work on a new branch (use Gitflow).
+- [ ] Open a pull request with all your changes. Do not merge it - you will need it in the following exercise!
 
 ## Built With
 
@@ -58,7 +49,7 @@ This is the first project of the Math Magicians application. You will set up the
 
 ### Setup
 
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/react-todo-app).
 
 ### Install
 
@@ -67,8 +58,8 @@ This is the first project of the Math Magicians application. You will set up the
 
 ### Usage
 
-- Clone the repository using `git clone https://github.com/Hombre2014/math-magicians`
-- Change directory into the project folder: `cd math-magicians`
+- Clone the repository using `git clone https://github.com/Hombre2014/react-todo-app`
+- Change directory into the project folder: `cd react-todo-app`
 - Run `npm install`
 - Run `npm start`
 - A new browser will open automatically with application loaded
@@ -126,7 +117,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre2014/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/Hombre2014/react-todo-app/issues).
 
 ## Show your support
 
