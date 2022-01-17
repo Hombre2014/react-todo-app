@@ -12,14 +12,14 @@ Follow the react to-do app tutorial and build the project in the estimated time.
 
 ## Requirements:
 
-- [ ] You will follow the tutorial: React Tutorial From Scratch: A Step-by-Step Guide (2021), where you will develop a To do app!
-- [ ] This tutorial, divided into several parts, is very comprehensive, and covers all main concepts about React, from the very basics to some intermediate topics. Feel free to skip the parts you think you don't need, since you already learned about these topics. This tutorial is not a substitute, just a reinforcement of what you have learned.
-- [ ] Complete as much as possible in the estimated time.
-- [ ] The tutorial is organized in the following sections:
-  - [ ] Part 1 - React tutorial: The beginner's guide to learning React in 2020.
-  - [ ] Part 2 - Working with React form and handling event.
-  - [ ] Part 3 – How to implement CSS in Reactjs app.
-  - [ ] Part 4 – How to edit to dos items.
+- [x] You will follow the tutorial: React Tutorial From Scratch: A Step-by-Step Guide (2021), where you will develop a To do app!
+- [x] This tutorial, divided into several parts, is very comprehensive, and covers all main concepts about React, from the very basics to some intermediate topics. Feel free to skip the parts you think you don't need, since you already learned about these topics. This tutorial is not a substitute, just a reinforcement of what you have learned.
+- [x] Complete as much as possible in the estimated time.
+- [x] The tutorial is organized in the following sections:
+  - [x] Part 1 - React tutorial: The beginner's guide to learning React in 2020.
+  - [x] Part 2 - Working with React form and handling event.
+  - [x] Part 3 – How to implement CSS in Reactjs app.
+  - [x] Part 4 – How to edit to dos items.
   - [ ] Part 5 – Persisting React state in local storage (Optional).
   - [ ] Part 6 – Getting started with React lifecycle methods.
   - [ ] Part 7 – Getting started with React hooks.
